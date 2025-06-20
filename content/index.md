@@ -1,4 +1,4 @@
-# Welcome to Nuxt Content Starter
+# Willkommen zum Nuxt Starter Content
 
 This is the main page displaying Markdown located at [content/index.md](https://github.com/nuxt/starter/blob/content/content/index.md).
 
@@ -19,6 +19,7 @@ The current [alert](https://github.com/nuxt/starter/blob/content/app/components/
 ::
 
 ::counter
+![20945737.jpg](/20945737.jpg)
 ::
 
 Checkout out the [documentation](https://content.nuxt.com/docs/getting-started) to learn more.
